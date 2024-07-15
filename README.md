@@ -1,0 +1,2 @@
+# N-HiTS-Neural-Hierarchical-Interpolation-for-Time-Series-Forecasting
+The research paper introduces N-HiTS, an enhancement of N-BEATS, to improve long-horizon time series forecasting. Using multi-rate data sampling and hierarchical interpolation, N-HiTS addresses forecast volatility and computational complexity, outperforming state-of-the-art baselines and offering interpretable forecast decompositions.
